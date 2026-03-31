@@ -1,1 +1,32 @@
-
+export const jobs = [
+  {
+    id: 1,
+    title: "Digital Marketing Specialist",
+    company: "HerTech Africa",
+    location: "Lagos (Hybrid)",
+    flexibility: "Hybrid",
+    type: "Full-time",
+    description: "Lead social media campaigns for women‑focused tech initiatives.",
+    applyLink: "mailto:careers@hertech.africa",
+  },
+  {
+    id: 2,
+    title: "Remote Customer Support",
+    company: "GlobalConnect",
+    location: "Remote",
+    flexibility: "Remote",
+    type: "Part-time",
+    description: "Handle customer queries from home – flexible hours.",
+    applyLink: "https://globalconnect.com/careers",
+  },
+  {
+    id: 3,
+    title: "Software Developer (Returnship)",
+    company: "CodeForGood",
+    location: "Abuja (Hybrid)",
+    flexibility: "Returnship",
+    type: "6‑month paid returnship",
+    description: "Return to tech after a career break – mentorship included.",
+    applyLink: "mailto:returnships@codeforgood.ng",
+  },
+];
